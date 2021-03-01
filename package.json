@@ -1,0 +1,33 @@
+{
+  "name": "tick-counter",
+  "version": "1.0.0",
+  "description": "Count ticks per X seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n5h/tick-counter.git"
+  },
+  "keywords": [
+    "tick",
+    "ticker",
+    "fps",
+    "aps",
+    "apm",
+    "count",
+    "counter",
+    "counting",
+    "per",
+    "second",
+    "minute",
+    "hour"
+  ],
+  "author": "Daniel Shlomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4n5h/tick-counter/issues"
+  },
+  "homepage": "https://github.com/d4n5h/tick-counter#readme"
+}
